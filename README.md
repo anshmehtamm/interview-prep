@@ -1,5 +1,5 @@
 # interview-prep
-Important resources for Interview Preparation
+Important Resources for Interview Preparation
 
 ## Behavioral Round
 
